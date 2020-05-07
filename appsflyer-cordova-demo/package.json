@@ -1,0 +1,25 @@
+{
+  "name": "capacitor-app",
+  "version": "1.0.0",
+  "description": "An Amazing Capacitor App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "capacitor",
+    "mobile"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@capacitor/cli": "^2.0.1",
+    "@capacitor/core": "^2.0.1",
+    "@capacitor/ios": "^2.0.1",
+    "@ionic-native/appsflyer": "^5.24.0",
+    "cordova-plugin-appsflyer-sdk": "^5.2.1"
+  },
+  "devDependencies": {
+    "react-scripts": "3.4.1"
+  }
+}

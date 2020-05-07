@@ -1,0 +1,7 @@
+{
+  "appId": "com.appsflyer.cordovademo",
+  "appName": "AppsFlyer Cordova",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
